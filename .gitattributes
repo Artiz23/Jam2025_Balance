@@ -1,2 +1,14 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.cs linguist-language=C#
+
+*.unity linguist-language=ShaderLab
+*.shader linguist-language=ShaderLab
+*.mat linguist-language=ShaderLab
+*.asset linguist-language=ShaderLab
+*.prefab linguist-language=ShaderLab
+
+*.tif linguist-vendored
+*.wav linguist-vendored
+*.png linguist-vendored
+*.fbx linguist-vendored
