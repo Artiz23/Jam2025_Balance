@@ -4,7 +4,6 @@
 *.prefab linguist-language=YAML
 *.asset linguist-language=YAML
 *.mat linguist-language=YAML
-*.shader linguist-language=ShaderLab
 *.cginc linguist-language=ShaderLab
 *.hlsl linguist-language=HLSL
 *.compute linguist-language=HLSL
