@@ -20,8 +20,8 @@ public class MobAI : MonoBehaviour
     private Transform player;
     private Transform capturePoint;
     private PlayerHealth playerHealth;
-    private Transform currentTarget; // Текущая цель (игрок или другой моб)
-    private MobAI targetMob; // MobAI цели, если это моб
+    private Transform currentTarget;
+    private MobAI targetMob;
     private float lastAttackTime;
     private float lastUpdateTime;
     private float lastDamageTime;
